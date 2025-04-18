@@ -62,22 +62,28 @@ void loop() {
 <img src="Images/piano_setup_1.jpg" width="400"/>
 <br>
 
--🧪 Button Testing
+- 🧪 Button Testing
 <img src="Images/piano_setup_2.jpg" width="400"/>
 
 <br>
 
 - 🎥 Demo Video
-Click here to download/watch demo_showcase.mp4
+<Br>
+Click here to download
+<br>
+/watch demo_showcase.mp4
 
 <br>
+
 ## 📄 Project Files
--📄 Project_Report.pdf
--🎞️ Piano_Presentation.pptx
--💻 piano_code.txt
+- 📄 Project_Report.pdf
+- 🎞️ Piano_Presentation.pptx
+- 💻 piano_code.txt
 
 ## 👨‍🎓 Author
 Yatin Vadehra
+<br>
+<br>
 B.Tech Electronics and Communication Engineering
 <br>
 The NorthCap University (2021–2025)
